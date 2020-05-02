@@ -1,7 +1,7 @@
 package ladysnake.satin.api.util;
 
 import ladysnake.satin.impl.ModifiableMatrix4f;
-import net.minecraft.client.util.math.Matrix4f;
+import net.minecraft.util.math.Matrix4f;
 import org.apiguardian.api.API;
 import org.lwjgl.BufferUtils;
 import org.lwjgl.opengl.GL11;
